@@ -9,3 +9,11 @@ This is a mcp tool designed to assist solving ctf problems
 ![Status](https://img.shields.io/badge/developing-yellow)
 
 </div>
+
+## 🔨development
+
+Code is managed by **uv**
+
+```bash
+uv sync
+```
